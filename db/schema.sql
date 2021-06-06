@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS bloggerloggerDB;
-CREATE DATABASE bloggerloggerDB;
+DROP DATABASE IF EXISTS bloggerloggerdb;
+CREATE DATABASE bloggerloggerdb;
